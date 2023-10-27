@@ -10,5 +10,6 @@ echo "<br>";
 //$string[3] ="i";
 //echo $string;
  //echo str_replace("CS","Pro",$string);
-  echo substr($string,2 );
+ // echo substr($string,2 );
+ 
 ?>
